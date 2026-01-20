@@ -19,9 +19,9 @@ permalink: /Acceuil/
 <div>
 
   <nav>
-    <a href="/À propos.markdown">à propos</a>
-    <a href="/projet.markdown">Projets/Réalisations</a>
-    <a href="/Contact.markdown">Contact</a>
+    <a href="/PORTFOLIO/À propos.markdown/">à propos</a>
+    <a href="/PORTFOLIO/projet.markdown">Projets/Réalisations</a>
+    <a href="/PORTFOLIO/Contact.markdown">Contact</a>
   </nav>
 
 </div>
