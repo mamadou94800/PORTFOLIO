@@ -20,9 +20,9 @@ You can find the source code for Jekyll at GitHub:
 <div>
 
 <nav>
-  <a href="/index.markdown">Présentation</a>
-  <a href="/projet.markdown">Projets/Réalisations</a>
-  <a href="/Contact.markdown">Contact</a>
+  <a href="/PORTFOLIO/index.markdown">Présentation</a>
+  <a href="/PORTFOLIO/projet.markdown">Projets/Réalisations</a>
+  <a href="/PORTFOLIO/Contact.markdown">Contact</a>
 </nav>
 
 </div>
