@@ -7,9 +7,9 @@ permalink: /Contact/
 <div>
 
    <nav>
-      <a href="/index.markdown">Présentation</nav>
-      <a href="/À propos.markdown">à propos</nav>
-      <a href="/projet.markdown">Projets</nav>
+      <a href="/PORTFOLIO/index.markdown">Présentation</nav>
+      <a href="/PORTFOLIO/À propos.markdown">à propos</nav>
+      <a href="/PORTFOLIO/projet.markdown">Projets</nav>
    </nav>
 
 </div>
